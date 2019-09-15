@@ -220,10 +220,10 @@ should see something that looks like this:
     <div class="clear"></div>
   </li>
   <!-- End Profile -->
-=======
+<!-- =======
 >>>>>>> marty-mcfly
 ... (MORE CODE) ...
-```
+``` -->
 
 #### Identify the Commits to Merge
 
