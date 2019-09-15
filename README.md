@@ -116,7 +116,7 @@ page with just a placeholder avatar. Marty and Doc should not be there.
 
 ### Step 3: Merge!
 
-<<<<<<< HEAD
+<!-- <<<<<<< HEAD -->
 <!-- <<<<<<< HEAD
 You're going to add both the `doc-brown` branch and the `marty-mcfly` branch to
 the master branch using `git merge`. Merge the `doc-brown` branch first by running:
@@ -220,10 +220,10 @@ should see something that looks like this:
     <div class="clear"></div>
   </li>
   <!-- End Profile -->
-<!-- =======
+=======
 >>>>>>> marty-mcfly
 ... (MORE CODE) ...
-``` -->
+```
 
 #### Identify the Commits to Merge
 
